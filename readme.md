@@ -1,3 +1,8 @@
+## Blog Post built in Laravel
+This blog was built by following instructions from Traversy Media, 
+https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-
+For Brad Traversy codes, please check his github page: https://github.com/bradtraversy/lsapp
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
